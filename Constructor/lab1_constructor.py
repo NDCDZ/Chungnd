@@ -7,4 +7,4 @@ class Car:
         print(f"Car created: {self.brand} {self.model} ({self.year})")
 
 if __name__ == "__main__":
-    car = Car("Toyota", "Camry", 2023)
+    car = Car("Toyota", "chung", 2023)

@@ -1,4 +1,4 @@
-# Lab 1: Counter Class (Static Variable)
+# Lab 1: Tạo class Counter có biến static count. Mỗi khi tạo object mới, biến count tăng lên. In ra tổng số đối tượng đã tạo.
 class Counter:
     count = 0
 

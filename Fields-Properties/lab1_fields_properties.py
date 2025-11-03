@@ -19,5 +19,5 @@ class Rectangle:
 # Test
 if __name__ == "__main__":
     r = Rectangle(5, 3)
-    print("Area:", r.area())
+    print("area:", r.area())
     print("Perimeter:", r.perimeter())

@@ -1,4 +1,4 @@
-# Lab 2: MathUtil Class (Static Methods)
+# Lab 2: Viết class MathUtil chứa các phương thức static isPrime, factorial, gcd
 class MathUtil:
     @staticmethod
     def isPrime(n):

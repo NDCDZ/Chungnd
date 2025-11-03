@@ -8,5 +8,5 @@ class User:
         return f"{self.name} ({self.age})"
 
 if __name__ == "__main__":
-    users = [User(), User("Alice", 25), User("Bob", 30)]
+    users = [User(), User("chung", 21), User("lan", 30)]
     print("User list:", users)

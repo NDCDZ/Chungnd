@@ -1,4 +1,4 @@
-# Lab 3: Config Class (Static Config Info)
+# Lab 3: Tạo class Config với các biến static lưu thông tin cấu hình hệ thống (APP_NAME, VERSION). Viết hàm in cấu hình.
 class Config:
     APP_NAME = "MyApplication"
     VERSION = "1.0.0"
